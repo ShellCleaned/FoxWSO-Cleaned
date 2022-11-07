@@ -2,7 +2,7 @@
 FoxWSO Shell cleaned from logger
 
 # Screenshot
-![](https://user-images.githubusercontent.com/97237071/200320466-c8ea6297-ccee-423a-88e0-6ea19c6150bf.jpg)
+![](https://user-images.githubusercontent.com/117648087/200322876-2491196c-d63d-4b2d-a346-afe7f8e3b341.jpg)
 ![](https://user-images.githubusercontent.com/97237071/200320487-77511c4d-99a2-4632-9d98-11b6a8e5d289.jpg)
 ![](https://user-images.githubusercontent.com/97237071/200320490-7bf452c2-43f6-4fbd-8e95-fb2ec9756aed.jpg)
 
