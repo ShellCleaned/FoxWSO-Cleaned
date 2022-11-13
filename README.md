@@ -1,3 +1,5 @@
+#Added AutoRoot Server
+ ~> AutoRoot.php
 # FoxWSO (Cleaned)
 FoxWSO Shell cleaned from logger
 # Feature
